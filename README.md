@@ -8,3 +8,4 @@ function test()
 console.log("look ma', no spaces");
 }
 ```
+Here is the link to the image: [BC Logo](./BCLogo.png)
