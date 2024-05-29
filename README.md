@@ -1,14 +1,33 @@
-# 24SU-INEW2030-7P1
-place to store all my class files <br/>
-This is all my backups
+# Pokemon Card Store App
 
-```javascript
-function test()
-{
-console.log("look ma', no spaces");
-}
-```
-Here is the link to the image: [BC Logo](./BCLogo.png) <br/>
+## Overview <br>
+The pokemon pack store app is designed to handle multiple users, and manage inventory.
 
-**Task List**
-- [ ] Create the Logon View!
+## Features
+
+### Access
+- **Customers**:
+    - Create Account
+    - Browse Products
+    - add items
+    - make purchase
+- ** Employees**:
+    - Assist Customers
+    - Invoices and reciepts
+- **Managers**:
+    - Customer data
+    - Manage Inventory
+    - promotional codes
+    - Sales Reports
+### Inventory Management
+- Products sorted by series, type, special edition
+- Limited stock with identifier of low stock
+- Examples
+    - Match Battle Booster
+    - Unbroken Bonds Booster
+    - Lost Origin Booster
+### Shopping
+- New user sign-up
+- In-store sales with reciept and invoice
+- Add items, view totals, and checkout
+  
