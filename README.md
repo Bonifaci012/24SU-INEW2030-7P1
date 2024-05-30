@@ -30,4 +30,9 @@ The pokemon pack store app is designed to handle multiple users, and manage inve
 - New user sign-up
 - In-store sales with reciept and invoice
 - Add items, view totals, and checkout
-  
+
+### Managment Tools
+- View and edit customer info
+- Add, update, remove products, stock levels
+- Create promotional codes
+- Sales Reports
